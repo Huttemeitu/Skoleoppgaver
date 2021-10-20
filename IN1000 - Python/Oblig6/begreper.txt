@@ -1,0 +1,7 @@
+A. Klassedefinisjon: linje 1
+B. Opprettelse av nytt objekt: linje 19 og 20
+C. Definisjon av instansvariabel: linje 3
+D. Definisjon av instansmetode: linje 7: 9
+E. Definisjon av konstruktør: linje 2: 5
+F. Kall på instansmetode: linje 21
+G. Argumenter: linje 25

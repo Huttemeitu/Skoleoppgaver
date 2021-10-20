@@ -1,0 +1,9 @@
+1. Innkapsling er et prinsipp som handler om å skjule hvordan et objekt
+   representerer og manipulerer sine data for andre programmerere eller brukere.
+   Dette er nyttig fordi da kan den som har skrevet klassen lage nye versjoner av
+   klassen uten at det går utover programmer som bruker en tidligere versjon.
+2. Grensesnittet til en klasse er de operasjonene man kan utføre på objekter av
+   klassen. Dette skrives som metoder i python.
+3. Instansmetoder er operasjoner som utføres på objekter. Dette skiller seg fra
+   det vi har møtt hittil ved at de utføres på instansvariablene, som vil si at man
+   kan utføre metoden på et objekt uten at de andre objektene blir påvirket av det.
